@@ -18,7 +18,6 @@ Test Cases(edge cases):
 char stack[50];
 char postfix[50];
 int top;
-int match(char a, char b);
 void push(int ch);
 int pop();
 int peek();
